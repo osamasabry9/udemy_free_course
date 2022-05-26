@@ -1,0 +1,4 @@
+#Thu May 26 21:55:55 EET 2022
+base.0=/home/erhy/project/github/udemy_free_course/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
